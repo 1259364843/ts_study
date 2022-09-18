@@ -1,1 +1,1 @@
-console.log(1);
+import '../src/01_基础类型'
